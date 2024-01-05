@@ -1,0 +1,51 @@
+/* common shared styles */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.primary-color{
+    color: #FD6E0A;
+}
+
+.botton-primary{
+    color: #FFF;
+    line-height: normal;
+    background-color: #FD6E0A;
+    border-radius: 5px;
+    padding: 10px 20px;
+    border: 0px;
+    font-size: 20px;
+    font-weight:  700px;
+    
+}
+
+/* nav related styles */
+
+
+.nav-titel{
+color: var(--Dark-01, #181818);
+font-size: 45px;
+font-weight: 800;
+line-height: normal;
+;
+}
+
+nav{
+    display: flex;
+    justify-content:space-between;
+    align-items: ;
+}
+
+nav li{
+   
+    list-style: none;
+    margin-right: 50px;
+}
+
+nav > ul{
+    display: flex;
+    align-items: center;
+}
+nav a{
+    color: gray;
+    text-decoration: none;
+}
