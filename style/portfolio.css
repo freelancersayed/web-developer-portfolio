@@ -114,3 +114,25 @@ text-align: center;
 font-size: 18px;
 line-height: 30px; /* 166.667% */
 }
+
+.about-info-containar{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.about-inf{
+    text-align: center;
+    padding: 10px;
+}
+
+/* section2 */
+.what-i-do-description{
+    padding: 30px 150px;
+    /* justify-content: space-between; */
+    /* text-align: center; */}
+
+    .skills-container{
+        display: flex;
+        padding:  30px 130px;
+        text-align: center;
+    }
